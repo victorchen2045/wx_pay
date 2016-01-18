@@ -25,4 +25,4 @@ module WxPay
       @apiclient_key = OpenSSL::PKey::RSA.new(key)
     end
   end
-end
+end   
